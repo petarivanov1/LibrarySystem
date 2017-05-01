@@ -1,0 +1,17 @@
+D:\Programming\ASP.NET WebForms\LibrarySystem\LibrarySystem\LibrarySystem.Data\bin\Debug\LibrarySystem.Data.dll.config
+D:\Programming\ASP.NET WebForms\LibrarySystem\LibrarySystem\LibrarySystem.Data\bin\Debug\LibrarySystem.Data.dll
+D:\Programming\ASP.NET WebForms\LibrarySystem\LibrarySystem\LibrarySystem.Data\bin\Debug\LibrarySystem.Data.pdb
+D:\Programming\ASP.NET WebForms\LibrarySystem\LibrarySystem\LibrarySystem.Data\bin\Debug\EntityFramework.dll
+D:\Programming\ASP.NET WebForms\LibrarySystem\LibrarySystem\LibrarySystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programming\ASP.NET WebForms\LibrarySystem\LibrarySystem\LibrarySystem.Data\bin\Debug\LibrarySystem.Data.Models.dll
+D:\Programming\ASP.NET WebForms\LibrarySystem\LibrarySystem\LibrarySystem.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Programming\ASP.NET WebForms\LibrarySystem\LibrarySystem\LibrarySystem.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Programming\ASP.NET WebForms\LibrarySystem\LibrarySystem\LibrarySystem.Data\bin\Debug\LibrarySystem.Data.Models.pdb
+D:\Programming\ASP.NET WebForms\LibrarySystem\LibrarySystem\LibrarySystem.Data\bin\Debug\LibrarySystem.Data.Models.dll.config
+D:\Programming\ASP.NET WebForms\LibrarySystem\LibrarySystem\LibrarySystem.Data\bin\Debug\EntityFramework.xml
+D:\Programming\ASP.NET WebForms\LibrarySystem\LibrarySystem\LibrarySystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programming\ASP.NET WebForms\LibrarySystem\LibrarySystem\LibrarySystem.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Programming\ASP.NET WebForms\LibrarySystem\LibrarySystem\LibrarySystem.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Programming\ASP.NET WebForms\LibrarySystem\LibrarySystem\LibrarySystem.Data\obj\Debug\LibrarySystem.Data.csprojResolveAssemblyReference.cache
+D:\Programming\ASP.NET WebForms\LibrarySystem\LibrarySystem\LibrarySystem.Data\obj\Debug\LibrarySystem.Data.dll
+D:\Programming\ASP.NET WebForms\LibrarySystem\LibrarySystem\LibrarySystem.Data\obj\Debug\LibrarySystem.Data.pdb
