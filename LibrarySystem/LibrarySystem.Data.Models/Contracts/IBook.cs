@@ -20,6 +20,8 @@ namespace LibrarySystem.Data.Models.Contracts
 
         bool IsDeleted { get; set; }
 
+        int PagesCount { get; set; }
+
         DateTime IssueDate { get; set; }
 
         Author Author { get; set; }

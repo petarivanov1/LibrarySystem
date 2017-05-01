@@ -38,6 +38,8 @@ namespace LibrarySystem.Data.Models.Models
 
         public bool IsDeleted { get; set; }
 
+        public int PagesCount { get; set; }
+
         public DateTime IssueDate { get; set; }
 
         public virtual Author Author { get; set; }
