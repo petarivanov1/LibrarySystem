@@ -18,6 +18,12 @@ namespace LibrarySystem.Data.Models.Contracts
 
         int AuthorId { get; set; }
 
+        int PublisherId { get; set; }
+
+        int GenreId { get; set; }
+
+        string UserId { get; set; }
+
         bool IsDeleted { get; set; }
 
         int PagesCount { get; set; }

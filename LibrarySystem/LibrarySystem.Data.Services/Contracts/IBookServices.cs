@@ -7,6 +7,7 @@ namespace LibrarySystem.Data.Services.Contracts
     {
         void AddBook(Book bookToAdd);
         int Count();
+        void DeleteBook(Book bookToDelete);
         void DeleteBookById(object bookId);
         IQueryable<Book> GetAllBooks();
         Book GetById(int id);
@@ -15,6 +16,6 @@ namespace LibrarySystem.Data.Services.Contracts
 
         IQueryable<Book> GetBookByMultipleParameters(int authorId, int publisherId, decimal price);
 
-        IQueryable<Book> GetAllBooksByUserId(int userId);
+        IQueryable<Book> GetAllBooksByUserId(string userId);
     }
 }

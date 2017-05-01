@@ -36,10 +36,16 @@ namespace LibrarySystem.Data.Models.Models
 
         public int AuthorId { get; set; }
 
+        public int PublisherId { get; set; }
+
+        public int GenreId { get; set; }
+
+        public string UserId { get; set; }
+
         public bool IsDeleted { get; set; }
 
         public int PagesCount { get; set; }
-
+        
         public DateTime IssueDate { get; set; }
 
         public virtual Author Author { get; set; }

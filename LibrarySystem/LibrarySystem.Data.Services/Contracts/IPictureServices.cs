@@ -5,8 +5,8 @@ namespace LibrarySystem.Data.Services.Contracts
 {
     public interface IPictureServices
     {
-        IQueryable<Picture> GetAllPictures();
+        IQueryable<Picture> GetPictureByBookId(int bookId);
 
-        Picture GetById(int id);
+        string GetFirstPictureNameByBookId(int bookId);
     }
 }
