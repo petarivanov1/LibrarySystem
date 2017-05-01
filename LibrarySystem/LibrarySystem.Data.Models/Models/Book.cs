@@ -29,11 +29,14 @@ namespace LibrarySystem.Data.Models.Models
         [MaxLength(ValidationConstants.BookDescriptionMaxLength)]
         public string Description { get; set; }
 
+        [Required]
         public decimal Price { get; set; }
 
         public string Language { get; set; }
 
         public int AuthorId { get; set; }
+
+        public bool IsDeleted { get; set; }
 
         public DateTime IssueDate { get; set; }
 

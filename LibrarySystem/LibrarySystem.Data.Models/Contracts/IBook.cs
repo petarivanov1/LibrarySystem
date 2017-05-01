@@ -18,6 +18,8 @@ namespace LibrarySystem.Data.Models.Contracts
 
         int AuthorId { get; set; }
 
+        bool IsDeleted { get; set; }
+
         DateTime IssueDate { get; set; }
 
         Author Author { get; set; }
