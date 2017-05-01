@@ -1,4 +1,5 @@
-﻿using LibrarySystem.Data.Models.Models;
+﻿using System.Collections.Generic;
+using LibrarySystem.Data.Models.Models;
 
 namespace LibrarySystem.Data.Models.Contracts
 {
@@ -10,6 +11,12 @@ namespace LibrarySystem.Data.Models.Contracts
 
         string LastName { get; set; }
 
+        int PublisherId { get; set; }
+
         Publisher Publisher { get; set; }
+
+        Genre Genre { get; set; }
+
+        ICollection<Book> Books { get; set; }
     }
 }

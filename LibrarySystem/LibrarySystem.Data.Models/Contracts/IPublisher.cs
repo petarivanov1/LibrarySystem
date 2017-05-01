@@ -1,5 +1,5 @@
-﻿using LibrarySystem.Data.Models.Models;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
+using LibrarySystem.Data.Models.Models;
 
 namespace LibrarySystem.Data.Models.Contracts
 {
@@ -9,6 +9,12 @@ namespace LibrarySystem.Data.Models.Contracts
 
         string Name { get; set; }
 
-        ICollection<Author> Author { get; set; }
+        int AuthorId { get; set; }
+
+        ICollection<Author> Authors { get; set; }
+
+        ICollection<Genre> Genres { get; set; }
+
+        ICollection<Book> Books { get; set; }
     }
 }

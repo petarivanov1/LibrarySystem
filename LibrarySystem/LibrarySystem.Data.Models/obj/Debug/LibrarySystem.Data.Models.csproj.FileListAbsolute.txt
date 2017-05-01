@@ -3,3 +3,10 @@ D:\Programming\ASP.NET WebForms\LibrarySystem\LibrarySystem\LibrarySystem.Data.M
 D:\Programming\ASP.NET WebForms\LibrarySystem\LibrarySystem\LibrarySystem.Data.Models\obj\Debug\LibrarySystem.Data.Models.csprojResolveAssemblyReference.cache
 D:\Programming\ASP.NET WebForms\LibrarySystem\LibrarySystem\LibrarySystem.Data.Models\obj\Debug\LibrarySystem.Data.Models.dll
 D:\Programming\ASP.NET WebForms\LibrarySystem\LibrarySystem\LibrarySystem.Data.Models\obj\Debug\LibrarySystem.Data.Models.pdb
+D:\Programming\ASP.NET WebForms\LibrarySystem\LibrarySystem\LibrarySystem.Data.Models\bin\Debug\LibrarySystem.Data.Models.dll.config
+D:\Programming\ASP.NET WebForms\LibrarySystem\LibrarySystem\LibrarySystem.Data.Models\bin\Debug\EntityFramework.dll
+D:\Programming\ASP.NET WebForms\LibrarySystem\LibrarySystem\LibrarySystem.Data.Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programming\ASP.NET WebForms\LibrarySystem\LibrarySystem\LibrarySystem.Data.Models\bin\Debug\EntityFramework.xml
+D:\Programming\ASP.NET WebForms\LibrarySystem\LibrarySystem\LibrarySystem.Data.Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programming\ASP.NET WebForms\LibrarySystem\LibrarySystem\LibrarySystem.Data.Models\bin\Debug\LibrarySystem.Common.dll
+D:\Programming\ASP.NET WebForms\LibrarySystem\LibrarySystem\LibrarySystem.Data.Models\bin\Debug\LibrarySystem.Common.pdb
