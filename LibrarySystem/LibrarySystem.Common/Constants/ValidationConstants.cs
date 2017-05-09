@@ -26,5 +26,8 @@
 
         public const int UserLastNameMinLength = 2;
         public const int UserLastNameMaxLength = 20;
+
+        public const int PictureNameMinLength = 1;
+        public const int PictureNameMaxLength = 20;
     }
 }

@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibrarySystem.Data.Services
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibrarySystem.WebFormsClient", "LibrarySystem.WebFormsClient\LibrarySystem.WebFormsClient.csproj", "{43A309CF-A999-47DB-A8BA-97CFBCD87ACF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibrarySystem.Mvp", "LibrarySystem.Mvp\LibrarySystem.Mvp.csproj", "{2B44AE00-CEAC-4B3A-9E40-8033CE080735}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{43A309CF-A999-47DB-A8BA-97CFBCD87ACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43A309CF-A999-47DB-A8BA-97CFBCD87ACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43A309CF-A999-47DB-A8BA-97CFBCD87ACF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B44AE00-CEAC-4B3A-9E40-8033CE080735}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B44AE00-CEAC-4B3A-9E40-8033CE080735}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B44AE00-CEAC-4B3A-9E40-8033CE080735}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B44AE00-CEAC-4B3A-9E40-8033CE080735}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
